@@ -2,7 +2,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    font-family: calibri;
+    font-family: monospace;
     min-height: 100vh;
     background-image: url('images/bg.jpg');
     background-position: center;
