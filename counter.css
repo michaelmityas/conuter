@@ -23,6 +23,7 @@ body{
 
 .content h1{
     font-size: 3rem;
+    opacity: .8;
 }
 
 .content .countNum{
